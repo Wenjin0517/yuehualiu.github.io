@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+## About me
 刘月华，博士，师从澳大利亚Dillon Tharam教授（IEEE Life Fellow，引用量超2万次，H指数68），2021年毕业于澳大利亚La Trobe大学，并获得博士学位。同年，加入飞利浦研究院担任研究科学家。2023年，加入上海大学计算机工程与科学学院。其主要研究领域涵盖人工智能、大数据分析、工业物联网以及大模型等新一代信息技术，为智慧工业、智慧医疗等行业提供创新的技术解决方案。已在NPJ Digital Medicine (Nature子刊)、IEEE Transactions on Industrial Informatics (IEEE TII)、IEEE Internet of Things Journal (IEEE IOTJ)、IEEE journal of biomedical and health informatics (IEEE JBHI)、Information Fusion等国际顶尖期刊发表学术论文10余篇。其单篇论文最高被引用超过200次，有2篇论文的引用次数超过百次，H指数为11。近五年，以第一作者或通讯作者身份发表了7篇高影响力论文，总影响因子达到71.6；目前主持上海市“科技创新行动计划”启明星项目（扬帆专项），获批上海市“浦江人才”。
 
 获授权国家发明专利1项、世界知识产权组织WIPO发明专利1项。曾获澳大利亚免学费奖学金和生活费奖学金（当年度全院唯一），作为技术骨干参与研发的智能监测项目在澳大利亚BigInsights Data & AI 创新奖中获得了2018 年物联网行业最佳开发应用奖（Best Industry Application of IoT）。博士论文于2021年被提名并成功获得了Nancy Millis 奖章（专业第一），受邀作为代表在全校毕业典礼进行发言。目前担任高水平期刊IEEE TII 、IEEE IOTJ等杂志审稿人。 
