@@ -1,49 +1,46 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+刘月华，博士，师从澳大利亚Dillon Tharam教授（IEEE Life Fellow，引用量超2万次，H指数68），2021年毕业于澳大利亚La Trobe大学，并获得博士学位。同年，加入飞利浦研究院担任研究科学家。2023年，加入上海大学计算机工程与科学学院。其主要研究领域涵盖人工智能、大数据分析、工业物联网以及大模型等新一代信息技术，为智慧工业、智慧医疗等行业提供创新的技术解决方案。已在NPJ Digital Medicine (Nature子刊)、IEEE Transactions on Industrial Informatics (IEEE TII)、IEEE Internet of Things Journal (IEEE IOTJ)、IEEE journal of biomedical and health informatics (IEEE JBHI)、Information Fusion等国际顶尖期刊发表学术论文10余篇。其单篇论文最高被引用超过200次，有2篇论文的引用次数超过百次，H指数为11。近五年，以第一作者或通讯作者身份发表了7篇高影响力论文，总影响因子达到71.6；目前主持上海市“科技创新行动计划”启明星项目（扬帆专项），获批上海市“浦江人才”。
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+获授权国家发明专利1项、世界知识产权组织WIPO发明专利1项。曾获澳大利亚免学费奖学金和生活费奖学金（当年度全院唯一），作为技术骨干参与研发的智能监测项目在澳大利亚BigInsights Data & AI 创新奖中获得了2018 年物联网行业最佳开发应用奖（Best Industry Application of IoT）。博士论文于2021年被提名并成功获得了Nancy Millis 奖章（专业第一），受邀作为代表在全校毕业典礼进行发言。目前担任高水平期刊IEEE TII 、IEEE IOTJ等杂志审稿人。 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## Teaching
+* 本科：《人工智能进阶》
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Publications
+* **Yuehua Liu**, Wenjin Yu, Tharam Dillon. 2024，Regulatory responses and approval
+status of artificial intelligence medical devices with a focus on China. NPJ Digital Medicine
+(**Nature 子刊**，第一作者)
+* **Yuehua Liu**; Wenjin Yu; Tharam Dillon; Wenny Rahayu; Ming Li; Empowering IoT
+predictive maintenance solutions with AI: A distributed system for manufacturing plant-wide
+monitoring, IEEE Transactions on Industrial Informatics, 2021, 18(2): 1345-1354（第一作者，IF: 11.7）
+* **Yuehua Liu**; Wenjin Yu; Wenny Rahayu; Tharam Dillon; An Evaluative Study on IoT
+ecosystem for SmartPredictive Maintenance (IoT-SPM) in Manufacturing: Multi-view
+Requirements and Data Quality, IEEE Internet of Things Journal, 2023, 10(13): 11160-11184（第一作者，IF: 8.2）
+* **Yuehua Liu**; Tharam Dillon; Wenjin Yu; Wenny Rahayu; Fahed Mostafa; Noise
+removal in the presence of significant anomalies for industrial IoT sensor data in
+manufacturing, IEEE Internet of Things Journal, 2020, 7(8): 7084-7096（第一作者，IF: 8.2）
+* **Yuehua Liu**; Tharam Dillon; Wenjin Yu; Wenny Rahayu; Fahed Mostafa; Missing
+value imputation for industrial IoT sensor data with large gaps, IEEE Internet of Things
+Journal, 2020, 7(8): 6855-6867（第一作者，IF: 8.2）
+* Wenjin Yu; __Yuehua Liu*__; Tharam Dillon; Wenny Rahayu; Edge computing-assisted
+IoT framework with an autoencoder for fault detection in manufacturing predictive
+maintenance, IEEE Transactions on Industrial Informatics, 2022, 19(4): 5701-5710（通讯作者，IF: 11.7）
+* Wenjin Yu, __Yuehua Liu*__, Tharam Dillon, Wenny Rahayu, Fahed Mostafa. An
+Integrated Framework for Health State Monitoring in a Smart Factory Employing IoT and Big
+Data Techniques. IEEE Internet of Things Journal，2021，9(3):2443-54 (通讯作者，IF: 8.2)
+* __Yuehua Liu__, Feilong Cao, Jianwei Zhao, J Chu. Segmentation of white blood cells image using adaptive location and iteration. IEEE journal of biomedical and health informatics, 2017, 21 (6), 1644-1655. (第一作者)
+* Wenjin Yu, Tharam Dillon, Fahed Mostafa, Wenny Rahayu, and __Yuehua Liu__. A global
+manufacturing big data ecosystem for fault detection in predictive maintenance. IEEE
+Transactions on Industrial Informatics，2019，16(1):183-92 (IF: 11.7)
+* Keke Wang, __Yuehua Liu__, Hongxin Chen, Wenjin Yu, Jiayin Zhou, and Xiaoying Wang. Fully automating LI-RADS on MRI with deep learning-guided lesion segmentation, feature characterization, and score inference. Frontiers in Oncology, 2023, 13, p.1153241.（共同一作）
+* Feilong Cao, __Yuehua Liu__, Dianhui Wang. Efficient saliency detection using convolutional neural networks with feature selection. Information Sciences, 2019, 456, 34-49.
+* Bingxin Zhou, Xinliang Liu, __Yuehua Liu__, Yunying Huang, Pietro Lio, and Yu Guang
+Wang, 2022, December. Well-conditioned spectral transforms for dynamic graph
+representation. In Learning on Graphs Conference (pp. 12-1). PMLR.
+* Wenjin Yu, Tharam Dillon, Fahed Mostafa, Wenny Rahayu, and __Yuehua Liu__, 2019, May. Implementation of industrial cyber physical system: Challenges and solutions. In 2019
+IEEE International Conference on Industrial Cyber Physical Systems (ICPS) (pp. 173-178).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Honors and Awards
+* 2017年获澳大利亚政府奖学金
+* 2018年澳洲工厂项目获物联网最佳工业应用奖
+* 2021年获La Trobe Nancy Millis 奖章
+* 2021年受邀毕业典礼发言
