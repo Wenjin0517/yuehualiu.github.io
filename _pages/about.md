@@ -11,10 +11,10 @@ redirect_from:
 
 获授权国家发明专利1项、世界知识产权组织WIPO发明专利1项。曾获澳大利亚免学费奖学金和生活费奖学金（当年度全院唯一），作为技术骨干参与研发的智能监测项目在澳大利亚BigInsights Data & AI 创新奖中获得了2018 年物联网行业最佳开发应用奖（Best Industry Application of IoT）。博士论文于2021年被提名并成功获得了Nancy Millis 奖章（专业第一），受邀作为代表在全校毕业典礼进行发言。目前担任高水平期刊IEEE TII 、IEEE IOTJ等杂志审稿人。 
 
-# Teaching
+## Teaching
 * 本科：《人工智能进阶》
 
-# Publications
+## Publications
 * **Yuehua Liu**, Wenjin Yu, Tharam Dillon. 2024，Regulatory responses and approval
 status of artificial intelligence medical devices with a focus on China. NPJ Digital Medicine
 (**Nature 子刊**，第一作者)
@@ -48,7 +48,7 @@ representation. In Learning on Graphs Conference (pp. 12-1). PMLR.
 * Wenjin Yu, Tharam Dillon, Fahed Mostafa, Wenny Rahayu, and __Yuehua Liu__, 2019, May. Implementation of industrial cyber physical system: Challenges and solutions. In 2019
 IEEE International Conference on Industrial Cyber Physical Systems (ICPS) (pp. 173-178).
 
-# Honors and Awards
+## Honors and Awards
 * 2017年获澳大利亚政府奖学金
 * 2018年澳洲工厂项目获物联网最佳工业应用奖
 * 2021年获La Trobe Nancy Millis 奖章
